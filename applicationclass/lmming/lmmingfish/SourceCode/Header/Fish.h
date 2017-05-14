@@ -27,8 +27,9 @@ protected:
 int iGrade;
 
 private:
+char* name;
 int iHp;
-int iDir;//为鱼的初始方向，0 is left, 1 is up, 2 is right, 3 is down
+int iDir;//脦陋脫茫碌脛鲁玫脢录路陆脧貌拢卢0 is left, 1 is up, 2 is right, 3 is down
 float fSpeedX;
 float fSpeedY;
 float fPointX;

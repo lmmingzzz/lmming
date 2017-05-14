@@ -27,7 +27,6 @@ protected:
 int iGrade;
 
 private:
-char* name;
 int iHp;
 int iDir;//ÎªÓãµÄ³õÊ¼·½Ïò£¬0 is left, 1 is up, 2 is right, 3 is down
 float fSpeedX;
